@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Madhuri3117/Medical_Chatbot_Pinecone.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
